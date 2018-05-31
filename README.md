@@ -21,5 +21,5 @@ Sütunlar :**code**, **parentcode**, **name**, **slug**, **type**
 #### İl ve İlçe Eşleştirme
 **citys->code** = **district->parentcode**
 
-#### İl ve İlçe Eşleştirme
+#### İlçe ve Mahalle/Köy Eşleştirme
 **district->code** = **localities->parentcode**
